@@ -78,4 +78,4 @@ jupyter notebook Disease_Prediction_from_MedicalData.ipynb
 **Priyesh Kumar Kashyap**
 - GitHub: [Priyesh-DS-Code](https://github.com/Priyesh-DS-Code
 )
-- LinkedIn: [Priyesh-DS-Code](https://www.linkedin.com/in/priyeshkumarkashyap)
+- LinkedIn: [priyeshkumarkashyap](https://www.linkedin.com/in/priyeshkumarkashyap)
