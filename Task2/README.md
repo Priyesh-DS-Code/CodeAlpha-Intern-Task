@@ -128,6 +128,7 @@ print(alpha[pred.argmax()])
 
 ## 👤 Author
 
-**Ravi Namdeo**
-- GitHub: [@RaviNamdeoo](https://github.com/RaviNamdeoo)
-- LinkedIn: [RaviNamdeo](https://linkedin.com/in/ravinamdeo)
+**Priyesh Kumar Kashyap**
+- GitHub: [Priyesh-DS-Code](https://github.com/Priyesh-DS-Code
+)
+- LinkedIn: [priyeshkumarkashyap](https://www.linkedin.com/in/priyeshkumarkashyap)
