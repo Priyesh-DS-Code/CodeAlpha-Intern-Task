@@ -75,6 +75,7 @@ jupyter notebook Disease_Prediction_from_MedicalData.ipynb
 
 ## Author
 
-**Ravi Namdeo**
-- GitHub: [RaviNamdeoo](https://github.com/RaviNamdeoo)
-- LinkedIn: [RaviNamdeo](https://linkedin.com/in/ravinamdeo)
+**Priyesh Kumar Kashyap**
+- GitHub: [Priyesh-DS-Code](https://github.com/Priyesh-DS-Code
+)
+- LinkedIn: [Priyesh-DS-Code](https://www.linkedin.com/in/priyeshkumarkashyap)
